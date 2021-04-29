@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ToolsGenerator
+namespace ToolsGeneratorModel
 {
-    class Tools
+    public class Tools
     {
 
 

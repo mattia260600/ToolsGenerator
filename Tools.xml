@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tools>
+  <General>
+    <ParentToolTypeName>Fresa disco</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Disco 150 mm</Name>
+    <Description>Disco 150 mm</Description>
+    <Index>1</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>0</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Punta</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Drill  D6.5-6.8</Name>
+    <Description>Drill HSS</Description>
+    <Index>2</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>1</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Punta</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Drill  D8.5</Name>
+    <Description>Drill 8.5 HSS</Description>
+    <Index>3</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>2</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Fresa</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Fresa 10 mm</Name>
+    <Description>Fresa M.D.</Description>
+    <Index>7</Index>
+    <ToolHolder>Iso30RightProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>3</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Fresa</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Fresa 16 mm</Name>
+    <Description>Fresa HSS</Description>
+    <Index>8</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>4</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Punta</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Drill  D5</Name>
+    <Description>Drill HSS</Description>
+    <Index>9</Index>
+    <ToolHolder>HSK63F-ER25</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>5</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Fresa</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Fresa 8 mm</Name>
+    <Description>Fresa M.D.</Description>
+    <Index>12</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>6</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Punta a svasare</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Punta 6-11.5</Name>
+    <Description>Punta 6-11.5</Description>
+    <Index>21</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>7</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Fresa</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Fresa 12x45 mm</Name>
+    <Description>Fresa HSS</Description>
+    <Index>26</Index>
+    <ToolHolder>HSK63F-ER25</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>8</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Maschio Compensato</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Maschio M6</Name>
+    <Description>Maschio M6</Description>
+    <Index>31</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>9</Tool_Id>
+  </General>
+  <General>
+    <ParentToolTypeName>Maschio</ParentToolTypeName>
+    <ParentToolTypeTypology>0</ParentToolTypeTypology>
+    <Name>Maschio M10</Name>
+    <Description>Maschio M10</Description>
+    <Index>32</Index>
+    <ToolHolder>HSKStandardProtection</ToolHolder>
+    <ToolGroup>0</ToolGroup>
+    <ToolCheckMax>0</ToolCheckMax>
+    <ToolCheckAct>0</ToolCheckAct>
+    <ToolLife>0</ToolLife>
+    <ActLife>0</ActLife>
+    <DimensionValid>false</DimensionValid>
+    <Tool_Id>10</Tool_Id>
+  </General>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>2</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>106.175</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>150</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Codolo</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità d'entrata</Name>
+    <Value>15</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità di avanzamento</Name>
+    <Value>35</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità d'uscita</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità di rotazione</Name>
+    <Value>7000</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso di rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza tagliente</Name>
+    <Value>6</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Raggio utile</Name>
+    <Value>48</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso Olio</Name>
+    <Value>60</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Concordanza</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>0</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>3</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>6.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Codolo</Name>
+    <Value>6.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>137.4</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza 1</Name>
+    <Value>50</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Angolo utensile</Name>
+    <Value>120</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>0.7</Value>
+    <ValueIndex>1</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>4500</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>50</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.extract</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tempo di sosta per scarico</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>35</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>1</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>3</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>8.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Codolo</Name>
+    <Value>8.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>143.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza 1</Name>
+    <Value>50</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Angolo utensile</Name>
+    <Value>120</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>0.7</Value>
+    <ValueIndex>1</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>3500</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>50</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.extract</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tempo di sosta per scarico</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>35</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>2</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.collardiam</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>100.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>3</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>12000</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Quota scarico materiale</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tagliente</Name>
+    <Value>17</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>30</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità di avanzamento</Name>
+    <Value>6.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Concordanza</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>17</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>3</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>16</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.collardiam</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>109</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>0.45</Value>
+    <ValueIndex>1</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>6500</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Quota scarico materiale</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tagliente</Name>
+    <Value>33</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>30</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità di avanzamento</Name>
+    <Value>0.8</Value>
+    <ValueIndex>1</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Concordanza</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>4</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>3</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Codolo</Name>
+    <Value>5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>114</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza 1</Name>
+    <Value>50</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Angolo utensile</Name>
+    <Value>120</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>0.7</Value>
+    <ValueIndex>1</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>4500</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>50</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.extract</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tempo di sosta per scarico</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>35</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>5</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>8</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.collardiam</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>101.095</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>3</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>17000</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Quota scarico materiale</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tagliente</Name>
+    <Value>17</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità di avanzamento</Name>
+    <Value>8</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Concordanza</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>17</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>6</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>3</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>2</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Max</Name>
+    <Value>11.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Codolo</Name>
+    <Value>11.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>146.865</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tempo di sosta per scarico</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.extract</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>60</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Min</Name>
+    <Value>6</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Distanza diametri</Name>
+    <Value>10.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.drillangle</Name>
+    <Value>90</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.degangcntsnk</Name>
+    <Value>90</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>7</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>12</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.collardiam</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>102.6</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità entrata</Name>
+    <Value>1</Value>
+    <ValueIndex>1</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>14000</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Quota scarico materiale</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tagliente</Name>
+    <Value>15</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Velocità di avanzamento</Name>
+    <Value>1</Value>
+    <ValueIndex>1</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Concordanza</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passata</Name>
+    <Value>13</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>8</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>4</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>6</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>toolparam.collardiam</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza Compensatore</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Compensatore</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>107.33</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tagliente</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>1000</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>60</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passo</Name>
+    <Value>1</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>9</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo utensile</Name>
+    <Value>4</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>SottoTipo Utensile</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Diametro Codolo</Name>
+    <Value>10</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Lunghezza</Name>
+    <Value>123.3</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tagliente</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Numero giri</Name>
+    <Value>800</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Senso rotazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Impulso lubrificante</Name>
+    <Value>60</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Passo</Name>
+    <Value>1.5</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Ordine</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo lubrificante</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+  <Parameters>
+    <Name>Tipo aspirazione</Name>
+    <Value>0</Value>
+    <ValueIndex>0</ValueIndex>
+    <Tool_Id>10</Tool_Id>
+  </Parameters>
+</Tools>
